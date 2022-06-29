@@ -1,0 +1,65 @@
+.bottom{
+    position: absolute;
+    width: 692px;
+    height: 548px;
+    left: 73px;
+    top: 347px;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+.tuno{
+    position: absolute;
+    width: 328px;
+    height: 62px;
+    left: 190px;
+    top: 127px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    color: #000000;
+}
+
+.tdos{
+    position: absolute;
+    width: 224px;
+    height: 47px;
+    left: 250px;
+    top: 197px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 47px;
+    color: #000000;
+}
+
+.descrip{
+    position: absolute;
+    width: 346px;
+    height: 93px;
+    left: 187px;
+    top: 317px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    color: #000000;
+}
+
+.links{
+    position: absolute;
+    width: 215px;
+    height: 26px;
+    left: 250px;
+    top: 457px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

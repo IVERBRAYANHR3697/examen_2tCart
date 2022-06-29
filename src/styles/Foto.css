@@ -1,0 +1,14 @@
+.foto{
+    position: absolute;
+    width: 305px;
+    height: 305px;
+    left: 266px;
+    top: 190px;
+    background: #F1EAEA;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.foto img{
+    margin: 10px;
+}
